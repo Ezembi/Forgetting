@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Забывалыч</string>
+
+    <string name="action_clear">Удалить выполненные</string>
+
+    <!--диалог добовления/изменения дела-->
+    <string name="dialog_what_need_to_do">Что нужно сделать?</string>
+    <string name="dialog_add_job">OK</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_complete">Готово?</string>
+
+
+
+</resources>

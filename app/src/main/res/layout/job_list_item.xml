@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/jobItem"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/completeImage"
+        android:layout_marginTop="@dimen/job_item_margin"
+        android:layout_marginRight="@dimen/job_item_margin"
+        android:layout_marginBottom="@dimen/job_item_margin" />
+
+    <TextView
+        android:id="@+id/job"
+        android:text="job"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginTop="@dimen/job_item_margin"
+        android:layout_marginBottom="@dimen/job_item_margin">
+    </TextView>
+
+</LinearLayout>

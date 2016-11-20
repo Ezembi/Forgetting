@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Forgetting</string>
+
+    <string name="action_clear">Delete completed</string>
+
+    <!--диалог добовления/изменения дела-->
+    <string name="dialog_what_need_to_do">What need to do?</string>
+    <string name="dialog_add_job">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_complete">Complete?</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
